@@ -1,5 +1,2 @@
-x = "!! Hello World!! "
-y = "Fareeda Mhadmhan"
-console.log(x)
-console.log(y)
-5555
+  "!! Hello World!! "
+ "Fareeda Mhadmhan"
